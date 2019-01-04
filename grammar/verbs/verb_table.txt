@@ -7,17 +7,23 @@ Auxiliary and Suffixes:
   	Others:     je, tu, il/elle, nous, vous, ils/elles
 
 -er (donn-er)
-  Past Part:     -é
-  Gerund:        -ant
-  Imperative:    -e, -ons, -ez
-  Present:       -e, -es, -e, -ons, -ez, -ont
-  Imperfect:     -ais, -ais, -ait, -ions, -iez, -aient
-  Future:        infinitive + -ai, -as, -a, -ons, -ez, -ont
-  Conditional:   infinitive + -ais, -ais, -ait, -ions, -iez, -aient
-  Past Historic: -ai, -as, -a, -âmes, -âtes, èrent
-  Pluperfect:    j'avais donné
-  Future Perf:   j'aurai donné
-  Pres Subj:     -e, -es, -e, -ions, -iez, -ent
+  Past Part:   -é
+  Gerund:      -ant
+  Imperative:  -e, -ons, -ez
+  Present:     -e, -es, -e, -ons, -ez, -ent
+  Pres Perf:   ai, as, a, avons, avez, ont + Past Part
+  Imperfect:   -ais, -ais, -ait, -ions, -iez, -aient
+  Future:      infinitive + -ai, -as, -a, -ons, -ez, -ont
+  Conditional: infinitive + -ais, -ais, -ait, -ions, -iez, -aient
+  Past Hist:   -ai, -as, -a, -âmes, -âtes, èrent
+  Pluperfect:  avais, avais, avait, avions, aviez, avaient + Past Part
+  Future Perf: aurai, auras, aura, aurons, aurez, auront + Past Part
+  Past Ant:    eus, eus, eut, eûmes, eûtes, eurent + Past Part
+  Cond Perf:   aurais, aurais, aurait, aurions, auriez, auraient + Past Part
+  Pres Subj:   -e, -es, -e, -ions, -iez, -ent
+  Impref Subj: -asse, -asses, -ât, -assions, -assiez, -assent
+  PP Subj:     aie, aies, ait, ayons, ayez, aient + Past Part
+  Plup Subj:   eusse, eusses, eût, eussions, eussiez, eussent + Past Part
 ========================================================
 
 avoir
@@ -36,6 +42,8 @@ avoir
   Cond Perf:   j'aurais eu
   Pres Subj:   aie, aies, ait, ayons, ayez, aient
   Imperf Subj: eusse, eusses, eût, eussions, eussiez, eussent
+  PP Subj:     j'aie eu
+  Plup Subj:   j'eusse eu
 
 donner
   Past Part:   donné
@@ -53,8 +61,8 @@ donner
   Cond Perf:   j'aurais donné
   Pres Subj:   donne, donnes, donne, donnions, donniez, donnent
   Imperf Subj: donnasse, donnasses, donnât, donnassions, donnassiez, donnassent
-  PP Subj:     j'aie donné, tu aies donné, il ait donné, nous ayons donné, vous ayez donné, ils aient donné
-  Plup Subj:   j'eusse donné, tu eusses donné, il eût donné, nous eussions donné, vous eussiez donné, ils eussent donné
+  PP Subj:     j'aie donné
+  Plup Subj:   j'eusse donné
 
 finir
   Past Part:   fini
