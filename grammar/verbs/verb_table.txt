@@ -2,52 +2,74 @@
 ========================================================
 
 Auxiliary and Suffixes:
+  Order:
+    Imperative: tu, nous, vous
+  	Others:     je, tu, il/elle, nous, vous, ils/elles
 
 -er (donn-er)
   Past Participle: -é
   Gerund: -ant
-  Imperative: -e (tu), -ons (nous), -ez (vous)
-  Present: je -e, tu -es, il -e, nous -ons, vous -ez, ils -ont
-  Imperfect: je -ais, tu -ais, il -ait, nous -ions, vous -iez, ils -aient
-  Future: infinitive + je -ai, tu -as, il -a, nous -ons, vous -ez, ils -ont
-  Conditional: infinitive + je -ais, tu -ais, il -ait, nous -ions, vous -iez, ils -aient
-  Past Historic: je -ai, tu -as, il -a, nous -âmes, vous -âtes, ils èrent
-  Pluperfect: j'avais donné
+  Imperative: -e, -ons, -ez
+  Present: -e, -es, -e, -ons, -ez, -ont
+  Imperfect: -ais, -ais, -ait, -ions, -iez, -aient
+  Future: infinitive + -ai, -as, -a, -ons, -ez, -ont
+  Conditional: infinitive + -ais, -ais, -ait, -ions, -iez, -aient
+  Past Historic: -ai, -as, -a, -âmes, -âtes, èrent
+  Pluperfect:     j'avais donné
   Future Perfect: j'aurai donné
-  Present Subjunctive: je -e, tu -es, il -e, nous -ions, vous -iez, ils -ent
+  Pres Subj: -e, -es, -e, -ions, -iez, -ent
 ========================================================
 
 avoir
-  Past Participle: eu
-  Gerund: ayant
-  Present: j'ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont
-  Present Perfect: j'ai eu
-  Imperfect: j'avais, tu avais, il/elle avait, nous avions, vous aviez, ils/elles avaient
-  Future: j'aurai, tu auras, il/elle aura, nous aurons, vous aurez, ils/elles auront
-  Conditional: j'aurais, tu aurais, il/elle aurait, nous aurions, vous auriez, ils/elles auraient
-  Imperative: aie (tu), ayons (nous), ayez (vous)
+  Past Part:   eu
+  Gerund:      ayant
+  Present:     ai, as, a, avons, avez, ont
+  Pres Perf:   j'ai eu
+  Imperfect:   avais, avais, avait, avions, aviez, avaient
+  Future:      aurai, auras, aura, aurons, aurez, auront
+  Conditional: aurais, aurais, aurait, aurions, auriez, auraient
+  Imperative:  aie, ayons, ayez
 
 donner
-  Past Participle: donné
-  Gerund: donnant
-  Present:  je donne, tu donnes, il/elle donne, nous donnons, vous donnez, ils/elles donnent
-  Present Perfect: j'ai donné
-  Imperfect: je donnais, tu donnais, il/elle donnait, nous donnions, vous donniez, ils/elles donnaient
-  Future: je donnerai, tu donneras, il/elle donnera, nous donnerons, vous donnerez, ils/elles donneront
-  Conditional: je donnerais, tu donnerais, il/elle donnerait, nous donnerions, vous donneriez, ils/elles donneraient
-  Imperative: donne (tu), donnons (nous), donnez (vous)
-  Past Anterior: j'eus donné, tu eus donné, il/elle eut donné, nous eûmes donné, vous eûtes donné, ils/elles eurent donné
-  Conditional Perfect: j'aurais donné, tu aurais donné, il/elle aurait donné, nous aurions donné, vous auriez donné, ils/elles auraient donné
-  Present Subjunctive: je donne, tu donnes, il/elle donne, nous donnions, vous donniez, ils/elles donnent
-  Imperfect Subjunctive: je donnasse, tu donnasses, il/elle donnât, nous donnassions, vous donnassiez, ils/elles donnassent
-  Present Perfect Subjunctive: j'aie donné, tu aies donné, il/elle ait donné, nous ayons donné, vous ayez donné, ils/elles aient donné
-  Pluperfect Subjunctive: j'eusse donné, tu eusses donné, il/elle eût donné, nous eussions donné, vous eussiez donné, ils/elles eussent donné
+  Past Part:      donné
+  Gerund:         donnant
+  Present:        donne, donnes, donne, donnons, donnez, donnent
+  Pres Perf:      j'ai donné
+  Imperfect:      donnais, donnais, donnait, donnions, donniez, donnaient
+  Future:         donnerai, donneras, donnera, donnerons, donnerez, donneront
+  Conditional:    donnerais, donnerais, donnerait, donnerions, donneriez, donneraient
+  Imperative:     donne, donnons, donnez
+  Past Ant:       j'eus donné, tu eus donné, il eut donné, nous eûmes donné, vous eûtes donné, ils eurent donné
+  Cond Perf:      j'aurais donné
+  Pres Subj:      donne, donnes, donne, donnions, donniez, donnent
+  Imperf Subj:    donnasse, donnasses, donnât, donnassions, donnassiez, donnassent
+  Pres Perf Subj: j'aie donné, tu aies donné, il ait donné, nous ayons donné, vous ayez donné, ils aient donné
+  Plup Subj:      j'eusse donné, tu eusses donné, il eût donné, nous eussions donné, vous eussiez donné, ils eussent donné
+
+finir
+  Past Part: fini
+  Gerund: finissant
+  Present:  finis, finis, finit, finissons, finissez, finissent
+  Pres Perf: j'ai fini
+  Imperfect: je finissais, finissais, finissait, finissions, finissiez, finissaient
+  Future: finirai, finiras, finira, finirons, finirez, finiront
+  Conditional: finirais, finirais, finirait, finirions, finiriez, finiraient
+  Imperative: finis (tu), finissons (nous), finissez (vous)
+  
+  Past Ant: j'eus donné, tu eus donné, il eut donné, nous eûmes donné, vous eûtes donné, ils eurent donné
+  Cond Perf: j'aurais donné, tu aurais donné, il aurait donné, nous aurions donné, vous auriez donné, ils auraient donné
+  Pres Subj: je donne, tu donnes, il donne, nous donnions, vous donniez, ils donnent
+  Imperf Subj: je donnasse, tu donnasses, il donnât, nous donnassions, vous donnassiez, ils donnassent
+  Pres Perf Subj: j'aie donné, tu aies donné, il ait donné, nous ayons donné, vous ayez donné, ils aient donné
+  Plup Subj: j'eusse donné, tu eusses donné, il eût donné, nous eussions donné, vous eussiez donné, ils eussent donné
+
+
 ========================================================
 verb
-  Past Participle: 
+  Past Part: 
   Gerund: 
   Present: 
-  Present Perfect: 
+  Pres Perf: 
   Imperfect: 
   Future: 
   Conditional: 
