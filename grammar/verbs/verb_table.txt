@@ -6,7 +6,7 @@ Auxiliary and Suffixes:
     Imperative: tu, nous, vous
     Others:     je, tu, il/elle, nous, vous, ils/elles
 
--er (donn-er)
+-er (root-er)
   Past Part:   -é
   Gerund:      -ant
   Imperative:  -e, -ons, -ez
@@ -15,7 +15,7 @@ Auxiliary and Suffixes:
   Imperfect:   -ais, -ais, -ait, -ions, -iez, -aient
   Future:      infinitive + -ai, -as, -a, -ons, -ez, -ont
   Conditional: infinitive + -ais, -ais, -ait, -ions, -iez, -aient
-  Past Hist:   -ai, -as, -a, -âmes, -âtes, èrent
+  Past Hist:   -ai, -as, -a, -âmes, -âtes, -èrent
   Pluperfect:  avais, avais, avait, avions, aviez, avaient + Past Part
   Future Perf: aurai, auras, aura, aurons, aurez, auront + Past Part
   Past Ant:    eus, eus, eut, eûmes, eûtes, eurent + Past Part
@@ -25,7 +25,7 @@ Auxiliary and Suffixes:
   PP Subj:     aie, aies, ait, ayons, ayez, aient + Past Part
   Plup Subj:   eusse, eusses, eût, eussions, eussiez, eussent + Past Part
   
--ir (fin-ir)
+-ir (root-ir)
   Past Part:   -i
   Gerund:      -issant
   Imperative:  -is, -issons, -issez
@@ -34,12 +34,31 @@ Auxiliary and Suffixes:
   Imperfect:   -issais, -issais, -issait, -issions, -issiez, -issaient
   Future:      infinitive + -irai, -iras, -ira, -irons, -irez, -iront
   Conditional: infinitive + -irais, -irais, -irait, -irions, -iriez, -iraient
-  Past Hist:   -ai, -as, -a, -âmes, -âtes, èrent
+  Past Hist:   -is, -is, -it, -îmes, -îtes, -irent
   Pluperfect:  avais, avais, avait, avions, aviez, avaient + Past Part
   Future Perf: aurai, auras, aura, aurons, aurez, auront + Past Part
   Past Ant:    eus, eus, eut, eûmes, eûtes, eurent + Past Part
   Cond Perf:   aurais, aurais, aurait, aurions, auriez, auraient + Past Part
   Pres Subj:   -isse, -isses, -isse, -issions, -issiez, -issent
+  Impref Subj: -isse, -isses, -ît, -issions, -issiez, -issent
+  PP Subj:     aie, aies, ait, ayons, ayez, aient + Past Part
+  Plup Subj:   eusse, eusses, eût, eussions, eussiez, eussent + Past Part
+  
+-re (vend-re)
+  Past Part:   -u
+  Gerund:      -ant
+  Imperative:  -s, -ons, -ez
+  Present:     -s, -s, , -ons, -ez, -ent
+  Pres Perf:   ai, as, a, avons, avez, ont + Past Part
+  Imperfect:   -ais, -ais, -ait, -ions, -iez, -aient
+  Future:      root + -rai, -ras, -ra, -rons, -rez, -ront
+  Conditional: root + -rais, -rais, -rait, -rions, -riez, -raient
+  Past Hist:   -is, -is, -it, -îmes, -îtes, -irent
+  Pluperfect:  avais, avais, avait, avions, aviez, avaient + Past Part
+  Future Perf: aurai, auras, aura, aurons, aurez, auront + Past Part
+  Past Ant:    eus, eus, eut, eûmes, eûtes, eurent + Past Part
+  Cond Perf:   aurais, aurais, aurait, aurions, auriez, auraient + Past Part
+  Pres Subj:   -e, -es, -e, -ions, -iez, -ent
   Impref Subj: -isse, -isses, -ît, -issions, -issiez, -issent
   PP Subj:     aie, aies, ait, ayons, ayez, aient + Past Part
   Plup Subj:   eusse, eusses, eût, eussions, eussiez, eussent + Past Part
@@ -104,14 +123,41 @@ finir
   PP Subj:     j'aie fini
   Plup Subj:   j'eusse fini
 
+vendre
+  Past Part:   vendu
+  Gerund:      vendant
+  Imperative:  vends, vendons, vendez
+  Present:     vends, vends, vend, vendons, vendez, vendent
+  Pres Perf:   j'ai vendu
+  Imperfect:   vendais, vendais, vendait, vendions, vendiez, vendaient
+  Future:      vendrai, vendras, vendra, vendrons, vendrez, vendront
+  Conditional: vendrais, vendrais, vendrait, vendrions, vendriez, vendraient
+  Past Hist:   vendis, vendis, vendit, vendîmes, vendîtes, vendirent
+  Pluperfect:  j'avais vendu
+  Future Perf: j'aurai vendu
+  Past Ant:    j'eus vendu
+  Cond Perf:   j'aurais vendu
+  Pres Subj:   vende, vendes, vende, vendions, vendiez, vendent
+  Imperf Subj: vendisse, vendisses, vendît, vendissions, vendissiez, vendissent
+  PP Subj:     j'aie vendu
+  Plup Subj:   j'eusse vendu
 
 ========================================================
 verb
-  Past Part: 
-  Gerund: 
-  Present: 
-  Pres Perf: 
-  Imperfect: 
-  Future: 
+  Past Part:   
+  Gerund:      
+  Imperative:  
+  Present:     
+  Pres Perf:   
+  Imperfect:   
+  Future:      
   Conditional: 
-  Imperative: 
+  Past Hist:   
+  Pluperfect:  
+  Future Perf: 
+  Past Ant:    
+  Cond Perf:   
+  Pres Subj:   
+  Imperf Subj: 
+  PP Subj:     
+  Plup Subj:   
