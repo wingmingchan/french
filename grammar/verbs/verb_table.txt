@@ -7,17 +7,17 @@ Auxiliary and Suffixes:
   	Others:     je, tu, il/elle, nous, vous, ils/elles
 
 -er (donn-er)
-  Past Participle: -é
-  Gerund: -ant
-  Imperative: -e, -ons, -ez
-  Present: -e, -es, -e, -ons, -ez, -ont
-  Imperfect: -ais, -ais, -ait, -ions, -iez, -aient
-  Future: infinitive + -ai, -as, -a, -ons, -ez, -ont
-  Conditional: infinitive + -ais, -ais, -ait, -ions, -iez, -aient
+  Past Part:     -é
+  Gerund:        -ant
+  Imperative:    -e, -ons, -ez
+  Present:       -e, -es, -e, -ons, -ez, -ont
+  Imperfect:     -ais, -ais, -ait, -ions, -iez, -aient
+  Future:        infinitive + -ai, -as, -a, -ons, -ez, -ont
+  Conditional:   infinitive + -ais, -ais, -ait, -ions, -iez, -aient
   Past Historic: -ai, -as, -a, -âmes, -âtes, èrent
-  Pluperfect:     j'avais donné
-  Future Perfect: j'aurai donné
-  Pres Subj: -e, -es, -e, -ions, -iez, -ent
+  Pluperfect:    j'avais donné
+  Future Perf:   j'aurai donné
+  Pres Subj:     -e, -es, -e, -ions, -iez, -ent
 ========================================================
 
 avoir
