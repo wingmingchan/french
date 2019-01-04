@@ -23,46 +23,57 @@ Auxiliary and Suffixes:
 avoir
   Past Part:   eu
   Gerund:      ayant
+  Imperative:  aie, ayons, ayez
   Present:     ai, as, a, avons, avez, ont
   Pres Perf:   j'ai eu
   Imperfect:   avais, avais, avait, avions, aviez, avaient
   Future:      aurai, auras, aura, aurons, aurez, auront
   Conditional: aurais, aurais, aurait, aurions, auriez, auraient
-  Imperative:  aie, ayons, ayez
+  Past Hist:   eus, eus, eut, eûmes, eûtes, eurent
+  Pluperfect:  j'avais eu
+  Future Perf: j'aurai eu
+  Past Ant:    j'eus eu
+  Cond Perf:   j'aurais eu
+  Pres Subj:   aie, aies, ait, ayons, ayez, aient
+  Imperf Subj: eusse, eusses, eût, eussions, eussiez, eussent
 
 donner
-  Past Part:      donné
-  Gerund:         donnant
-  Present:        donne, donnes, donne, donnons, donnez, donnent
-  Pres Perf:      j'ai donné
-  Imperfect:      donnais, donnais, donnait, donnions, donniez, donnaient
-  Future:         donnerai, donneras, donnera, donnerons, donnerez, donneront
-  Conditional:    donnerais, donnerais, donnerait, donnerions, donneriez, donneraient
-  Imperative:     donne, donnons, donnez
-  Past Ant:       j'eus donné, tu eus donné, il eut donné, nous eûmes donné, vous eûtes donné, ils eurent donné
-  Cond Perf:      j'aurais donné
-  Pres Subj:      donne, donnes, donne, donnions, donniez, donnent
-  Imperf Subj:    donnasse, donnasses, donnât, donnassions, donnassiez, donnassent
-  Pres Perf Subj: j'aie donné, tu aies donné, il ait donné, nous ayons donné, vous ayez donné, ils aient donné
-  Plup Subj:      j'eusse donné, tu eusses donné, il eût donné, nous eussions donné, vous eussiez donné, ils eussent donné
+  Past Part:   donné
+  Gerund:      donnant
+  Imperative:  donne, donnons, donnez
+  Present:     donne, donnes, donne, donnons, donnez, donnent
+  Pres Perf:   j'ai donné
+  Imperfect:   donnais, donnais, donnait, donnions, donniez, donnaient
+  Future:      donnerai, donneras, donnera, donnerons, donnerez, donneront
+  Conditional: donnerais, donnerais, donnerait, donnerions, donneriez, donneraient
+  Past Hist:   donnai, donnas, donna, donnâmes, donnâtes, donnèrent
+  Pluperfect:  j'avais donné
+  Future Perf: j'aurai donné
+  Past Ant:    j'eus donné, tu eus donné, il eut donné, nous eûmes donné, vous eûtes donné, ils eurent donné
+  Cond Perf:   j'aurais donné
+  Pres Subj:   donne, donnes, donne, donnions, donniez, donnent
+  Imperf Subj: donnasse, donnasses, donnât, donnassions, donnassiez, donnassent
+  PP Subj:     j'aie donné, tu aies donné, il ait donné, nous ayons donné, vous ayez donné, ils aient donné
+  Plup Subj:   j'eusse donné, tu eusses donné, il eût donné, nous eussions donné, vous eussiez donné, ils eussent donné
 
 finir
-  Past Part: fini
-  Gerund: finissant
+  Past Part:   fini
+  Gerund:      finissant
+  Imperative:  donne, donnons, donnez
+
   Present:  finis, finis, finit, finissons, finissez, finissent
   Pres Perf: j'ai fini
   Imperfect: je finissais, finissais, finissait, finissions, finissiez, finissaient
   Future: finirai, finiras, finira, finirons, finirez, finiront
   Conditional: finirais, finirais, finirait, finirions, finiriez, finiraient
-  Imperative: finis (tu), finissons (nous), finissez (vous)
+  Imperative: finis, finissons, finissez
   
-  Past Ant: j'eus donné, tu eus donné, il eut donné, nous eûmes donné, vous eûtes donné, ils eurent donné
-  Cond Perf: j'aurais donné, tu aurais donné, il aurait donné, nous aurions donné, vous auriez donné, ils auraient donné
-  Pres Subj: je donne, tu donnes, il donne, nous donnions, vous donniez, ils donnent
-  Imperf Subj: je donnasse, tu donnasses, il donnât, nous donnassions, vous donnassiez, ils donnassent
-  Pres Perf Subj: j'aie donné, tu aies donné, il ait donné, nous ayons donné, vous ayez donné, ils aient donné
-  Plup Subj: j'eusse donné, tu eusses donné, il eût donné, nous eussions donné, vous eussiez donné, ils eussent donné
-
+  Past Ant: finis, finis, finit, finîmes, finîtes, finirent
+  Cond Perf: 
+  Pres Subj: 
+  Imperf Subj: 
+  Pres Perf Subj: 
+  Plup Subj: 
 
 ========================================================
 verb
