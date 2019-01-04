@@ -4,7 +4,7 @@
 Auxiliary and Suffixes:
   Order:
     Imperative: tu, nous, vous
-  	Others:     je, tu, il/elle, nous, vous, ils/elles
+    Others:     je, tu, il/elle, nous, vous, ils/elles
 
 -er (donn-er)
   Past Part:   -é
