@@ -123,6 +123,44 @@ donner
   PP Subj:     j'aie donné
   Plup Subj:   j'eusse donné
 
+être
+  Past Part:   été
+  Gerund:      étant
+  Imperative:  sois, soyons, soyez
+  Present:     suis, es, est, sommes, êtes, sont
+  Pres Perf:   j'ai été
+  Imperfect:   étais, étais, était, étions, étiez, étaient
+  Future:      serai, seras, sera, serons, serez, seront
+  Conditional: serais, serais, serait, serions, seriez, seraient
+  Past Hist:   fus, fus, fut, fûmes, fûtes, furent
+  Pluperfect:  j'avais été
+  Future Perf: j'aurai été
+  Past Ant:    j'eus été
+  Cond Perf:   j'aurais été
+  Pres Subj:   sois, sois, soit, soyons, soyez, soient
+  Imperf Subj: fusse, fusses, fût, fussions, fussiez, fussent
+  PP Subj:     j'aie été
+  Plup Subj:   j'eusse été
+
+faire
+  Past Part:   fait
+  Gerund:      faisant
+  Imperative:  fais, faisons, faites
+  Present:     fais, fais, fait, faisons, faites, font
+  Pres Perf:   j'ai fait
+  Imperfect:   faisais, faisais, faisait, faisions, faisiez, faisaient
+  Future:      ferai, feras, fera, ferons, ferez, feront
+  Conditional: ferais, ferais, ferait, ferions, feriez, feraient
+  Past Hist:   fis, fis, fit, fîmes, fîtes, firent
+  Pluperfect:  j'avais fait
+  Future Perf: j'aurai fait
+  Past Ant:    j'eus fait
+  Cond Perf:   j'aurais fait
+  Pres Subj:   fasse, fasses, fasse, fassions, fassiez, fassent
+  Imperf Subj: fisse, fisses, fît, fissions, fissiez, fissent
+  PP Subj:     j'aie fait
+  Plup Subj:   j'eusse fait
+
 finir
   Past Part:   fini
   Gerund:      finissant
@@ -141,6 +179,44 @@ finir
   Imperf Subj: finisse, finisses, finît, finissions, finissiez, finissent
   PP Subj:     j'aie fini
   Plup Subj:   j'eusse fini
+
+plaire
+  Past Part:   plu
+  Gerund:      plaisant
+  Imperative:  plais, plaisons, plaisez
+  Present:     plais, plais, plaît, plaisons, plaisez, plaisent
+  Pres Perf:   j'ai plu
+  Imperfect:   plaisais, plaisais, plaisait, plaisions, plaisiez, plaisaient
+  Future:      plairai, plairas, plaira, plairons, plairez, plairont
+  Conditional: plairais, plairais, plairait, plairions, plairiez, plairaient
+  Past Hist:   plus, plus, plut, plûmes, plûtes, plurent
+  Pluperfect:  j'avais plu
+  Future Perf: j'aurai plu
+  Past Ant:    j'eus plu
+  Cond Perf:   j'aurais plu
+  Pres Subj:   plaise, plaises, plaise, plaisions, plaisiez, plaisent
+  Imperf Subj: plusse, plusses, plût, plussions, plussiez, plussent
+  PP Subj:     j'aie plu
+  Plup Subj:   j'eusse plu
+
+pouvoir
+  Past Part:   pu
+  Gerund:      pouvant
+  Imperative:  
+  Present:     peux, peux, peut, pouvons, pouvez, peuvent
+  Pres Perf:   j'ai pu
+  Imperfect:   pouvais, pouvais, pouvait, pouvions, pouviez, pouvaient
+  Future:      pourrai, pourras, pourra, pourrons, pourrez, pourront
+  Conditional: je pourrais, pourrais, pourrait, pourrions, pourriez, pourraient
+  Past Hist:   pus, pus, put, pûmes, pûtes, purent
+  Pluperfect:  j'avais pu
+  Future Perf: j'aurai pu
+  Past Ant:    j'eus pu
+  Cond Perf:   j'aurais pu
+  Pres Subj:   puisse, puisses, puisse, puissions, puissiez, puissent
+  Imperf Subj: pusse, pusses, pût, pussions, pussiez, pussent
+  PP Subj:     j'aie pu
+  Plup Subj:   j'eusse pu
 
 vendre
   Past Part:   vendu
@@ -161,6 +237,25 @@ vendre
   PP Subj:     j'aie vendu
   Plup Subj:   j'eusse vendu
 
+vouloir
+  Past Part:   voulu 
+  Gerund:      voulant
+  Imperative:  veuille, veuillons, veuillez
+  Present:     veux, veux, veut, voulons, voulez, veulent
+  Pres Perf:   j'ai voulu
+  Imperfect:   voulais, voulais, voulait, voulions, vouliez, voulaient
+  Future:      voudrai, voudras, voudra, voudrons, voudrez, voudront
+  Conditional: voudrais, voudrais, voudrait, voudrions, voudriez, voudraient
+  Past Hist:   voulus, voulus, voulut, voulûmes, voulûtes, voulurent
+  Pluperfect:  j'avais voulu
+  Future Perf: j'aurai voulu
+  Past Ant:    j'eus voulu
+  Cond Perf:   j'aurais voulu
+  Pres Subj:   veuille, veuilles, veuille, voulions, vouliez, veuillent
+  Imperf Subj: voulusse, voulusses, voulût, voulussions, voulussiez, voulussent
+  PP Subj:     j'aie voulu
+  Plup Subj:   j'eusse voulu
+
 ========================================================
 verb
   Past Part:   
@@ -180,3 +275,5 @@ verb
   Imperf Subj: 
   PP Subj:     
   Plup Subj:   
+
+ÀàÇçÉéÈèÊêÎîÒòÛûÙù
