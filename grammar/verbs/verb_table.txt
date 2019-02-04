@@ -66,6 +66,25 @@ Auxiliary and Suffixes:
 
 ========================================================
 
+aller
+  Past Part:   allé
+  Gerund:      allant
+  Imperative:  va, allons, allez
+  Present:     vais, vas, va, allons, allez, vont
+  Pres Perf:   je suis allé
+  Imperfect:   allais, allais, allait, allions, alliez, allaient
+  Future:      irai, iras, ira, irons, irez, iront
+  Conditional: irais, irais, irait, irions, iriez, iraient
+  Past Hist:   allai, allas, alla, allâmes, allâtes, allèrent
+  Pluperfect:  j'étais allé
+  Future Perf: je serai allé
+  Past Ant:    je fus allé
+  Cond Perf:   je serais allé
+  Pres Subj:   aille, ailles, aille, allions, alliez, aillent
+  Imperf Subj: allasse, allasses, allât, allassions, allassiez, allassent
+  PP Subj:     je sois allé
+  Plup Subj:   je fusse allé
+
 avoir
   Past Part:   eu
   Gerund:      ayant
@@ -103,6 +122,25 @@ devoir
   Imperf Subj: dusse, dusses, dût, dussions, dussiez, dussent
   PP Subj:     j'aie dû
   Plup Subj:   j'eusse dû
+
+dire
+  Past Part:   dit
+  Gerund:      disant
+  Imperative:  dis, disons, dites
+  Present:     dis, dis, dit, disons, dites, disent
+  Pres Perf:   j'ai dit
+  Imperfect:   disais, disais, disait, disions, disiez, disaient
+  Future:      dirai, diras, dira, dirons, direz, diront
+  Conditional: dirais, dirais, dirait, dirions, diriez, diraient
+  Past Hist:   dis, dis, dit, dîmes, dîtes, dirent
+  Pluperfect:  j'avais dit
+  Future Perf: j'aurai dit
+  Past Ant:    j'eus dit
+  Cond Perf:   j'aurais dit
+  Pres Subj:   dise, dises, dise, disions, disiez, disent
+  Imperf Subj: disse, disses, dît, dissions, dissiez, dissent
+  PP Subj:     j'aie dit
+  Plup Subj:   j'eusse dit
 
 donner
   Past Part:   donné
@@ -180,6 +218,25 @@ finir
   PP Subj:     j'aie fini
   Plup Subj:   j'eusse fini
 
+mettre
+  Past Part:   mis
+  Gerund:      mettant
+  Imperative:  mets, mettons, mettez
+  Present:     mets, mets, met, mettons, mettez, mettent
+  Pres Perf:   j'ai mit
+  Imperfect:   mettais, mettais, mettait, mettions, mettiez, mettaient
+  Future:      mettrai, mettras, mettra, mettrons, mettrez, mettront
+  Conditional: mettrais, mettrais, mettrait, mettrions, mettriez, mettraient
+  Past Hist:   mis, mis, mit, mîmes, mîtes, mirent
+  Pluperfect:  j'avais mis
+  Future Perf: j'aurai mis
+  Past Ant:    j'eus mis
+  Cond Perf:   j'aurais mis
+  Pres Subj:   mette, mettes, mette, mettions, mettiez, mettent
+  Imperf Subj: misse, misses, mît, missions, missiez, missent
+  PP Subj:     j'aie mis
+  Plup Subj:   j'eusse mis
+
 plaire
   Past Part:   plu
   Gerund:      plaisant
@@ -217,6 +274,25 @@ pouvoir
   Imperf Subj: pusse, pusses, pût, pussions, pussiez, pussent
   PP Subj:     j'aie pu
   Plup Subj:   j'eusse pu
+
+prendre
+  Past Part:   pris
+  Gerund:      prenant
+  Imperative:  prends, prenons, prenez
+  Present:     (with d) prends, prends, prend, (no d) prenons, prenez, prennent
+  Pres Perf:   j'ai pris
+  Imperfect:   (no d) prenais, prenais, prenait, prenions, preniez, prenaient
+  Future:      (with d) prendrai, prendras, prendra, prendrons, prendrez, prendront
+  Conditional: (with d) prendrais, prendrais, prendrait, prendrions, prendriez, prendraient
+  Past Hist:   pris, pris, prit, prîmes, prîtes, prirent
+  Pluperfect:  j'avais pris
+  Future Perf: j'aurai pris
+  Past Ant:    j'eus pris
+  Cond Perf:   j'aurais pris
+  Pres Subj:   (no d) prenne, prennes, prenne, prenions, preniez, prennent
+  Imperf Subj: prisse, prisses, prît, prissions, prissiez, prissent
+  PP Subj:     j'aie pris
+  Plup Subj:   j'eusse pris
 
 vendre
   Past Part:   vendu
