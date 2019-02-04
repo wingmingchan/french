@@ -104,6 +104,44 @@ avoir
   PP Subj:     j'aie eu
   Plup Subj:   j'eusse eu
 
+boire (with v)
+  Past Part:   bu
+  Gerund:      buvant
+  Imperative:  bois, buvons, buvez
+  Present:     bois, bois, boit, buvons, buvez, boivent
+  Pres Perf:   j'ai bu
+  Imperfect:   buvais, buvais, buvait, buvions, buviez, buvaient
+  Future:      boirai, boiras, boira, boirons, boirez, boiront
+  Conditional: boirais, boirais, boirait, boirions, boiriez, boiraient
+  Past Hist:   bus, bus, but, bûmes, bûtes, burent
+  Pluperfect:  j'avais bu
+  Future Perf: j'aurai bu
+  Past Ant:    j'eus bu
+  Cond Perf:   j'aurais bu
+  Pres Subj:   boive, boives, boive, buvions, buviez, boivent
+  Imperf Subj: busse, busses, bût, bussions, bussiez, bussent
+  PP Subj:     j'aie bu
+  Plup Subj:   j'eusse bu
+
+croire (with y)
+  Past Part:   cru
+  Gerund:      croyant
+  Imperative:  crois, croyons, croyez
+  Present:     crois, crois, croit, croyons, croyez, croient
+  Pres Perf:   j'ai cru
+  Imperfect:   (with y) croyais, croyais, croyait, croyions, croyiez, croyaient
+  Future:      croirai, croiras, croira, croirons, croirez, croiront
+  Conditional: croirais, croirais, croirait, croirions, croiriez, croiraient
+  Past Hist:   crus, crus, crut, crûmes, crûtes, crurent
+  Pluperfect:  j'avais cru
+  Future Perf: j'aurai cru
+  Past Ant:    j'eus cru
+  Cond Perf:   j'aurais cru
+  Pres Subj:   croie, croies, croie, croyions, croyiez, croient
+  Imperf Subj: crusse, crusses, crût, crussions, crussiez, crussent
+  PP Subj:     j'aie cru
+  Plup Subj:   j'eusse cru
+
 devoir
   Past Part:   dû
   Gerund:      devant
