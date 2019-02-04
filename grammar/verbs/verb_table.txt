@@ -161,6 +161,27 @@ donner
   PP Subj:     j'aie donné
   Plup Subj:   j'eusse donné
 
+essayer
+  Past Part:   essayé
+  Gerund:      essayant
+  Imperative:  essaie/essaye, essayons, essayez
+  Present:     essaie/essaye, essaies/essayes, essaie/essaye, essayons, essayez, essaient/essayent
+  Pres Perf:   j'ai essayé
+  Imperfect:   essayais, essayais, essayait, essayions, essayiez, essayaient
+  Future:      essaierai, essaieras, essaiera, essaierons, essaierez, essaieront
+               essayerai, essayeras, essayera, essayerons, essayerez, essayeront
+  Conditional: essayerais, essayerais, essayerait, essayerions, essayeriez, essayeraient
+               essaierais, essaierais, essaierait, essaierions, essaieriez, essaieraient
+  Past Hist:   essayai, essayas, essaya, essayâmes, essayâtes, essayèrent
+  Pluperfect:  j'avais essayé
+  Future Perf: j'aurai essayé
+  Past Ant:    j'eus essayé
+  Cond Perf:   j'eus essayé
+  Pres Subj:   essaie/essaye, essaies/essayes, essaie/essaye, essayions, essayiez, essaient/essayent
+  Imperf Subj: essayasse, essayasses, essayât, essayassions, essayassiez, essayassent
+  PP Subj:     j'aie essayé
+  Plup Subj:   j'eusse essayé
+
 être
   Past Part:   été
   Gerund:      étant
