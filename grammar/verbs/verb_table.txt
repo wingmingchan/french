@@ -258,6 +258,23 @@ faire
   PP Subj:     j'aie fait
   Plup Subj:   j'eusse fait
 
+falloir
+  Past Part:   fallu
+  Present:     il faut
+  Pres Perf:   il a fallu
+  Imperfect:   il fallait
+  Future:      il faudra
+  Conditional: il faudrait
+  Past Hist:   il fallut
+  Pluperfect:  il avait fallu
+  Future Perf: il aura fallu
+  Past Ant:    il eut fallu
+  Cond Perf:   il aurait fallu
+  Pres Subj:   il faille
+  Imperf Subj: il fallût
+  PP Subj:     il ait fallu
+  Plup Subj:   il eût fallu
+  
 finir
   Past Part:   fini
   Gerund:      finissant
